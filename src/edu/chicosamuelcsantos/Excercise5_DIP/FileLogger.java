@@ -1,4 +1,4 @@
-package Excercise5_DIP;
+package edu.chicosamuelcsantos.Excercise5_DIP;
 
 public class FileLogger implements Logger {
     @Override
